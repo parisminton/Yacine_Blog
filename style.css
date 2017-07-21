@@ -69,6 +69,11 @@ main pre{
   line-height: 1.5;
   max-width: 658px;
   min-width: 658px;
+  text-align: left;
+  margin: 0 auto;
+}
+main .bodyText{
+  text-align: center;
 }
 body{
   margin: 0px;
